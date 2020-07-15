@@ -1,0 +1,47 @@
+clear highlight,shift+ctrl+j
+clear screen,ctrl+l
+close tab,shift+ctrl+w
+close window,shift+ctrl+q
+copy,shift+ctrl+c
+delete previous word,alt+BackSpace
+delete to end of line,ctrl+k
+delete to start of line,ctrl+u
+delete to start of word,ctrl+w
+erase line,ctrl+u
+erase word,ctrl+w
+find,shift+ctrl+f
+find next,shift+ctrl+g
+find previous,shift+ctrl+h
+full screen,F11
+move back one character,ctrl+b
+move back one word,alt+b
+move forward one character,ctrl+f
+move forward one word,alt+f
+move tab to left,shift+ctrl+Page_Up
+move tab to right,shift+ctrl+Page_Down
+move to end of line,ctrl+e
+move to start of line,ctrl+a
+new tab,shift+ctrl+t
+new window,shift+ctrl+n
+next tab,ctrl+Page_Down
+paste,shift+ctrl+v
+previous tab,ctrl+Page_Up
+reset zoom,ctrl+0
+scroll down one line,shift+ctrl+Down
+scroll down one page,shift+Page_Down
+scroll to bottom,shift+End
+scroll to top,shift+Home
+scroll up one line,shift+ctrl+Up
+scroll up one page,shift+Page_Up
+switch to tab eight,alt+8
+switch to tab five,alt+5
+switch to tab four,alt+4
+switch to tab nine,alt+9
+switch to tab one,alt+1
+switch to tab seven,alt+7
+switch to tab six,alt+6
+switch to tab ten,alt+0
+switch to tab three,alt+3
+switch to tab two,alt+2
+zoom in,ctrl+plus
+zoom out,ctrl+minus

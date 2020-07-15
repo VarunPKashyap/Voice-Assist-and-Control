@@ -1,0 +1,234 @@
+tab,add tab stop,gedit
+tab,close tab,gedit
+tab,new tab,gedit
+tab,new tab group,gedit
+tab,next tab group,gedit
+tab,previous tab group,gedit
+tab,remove tab stop,gedit
+tab,switch to next tab,gedit
+tab,switch to previous tab,gedit
+tab,switch to tab eight,gedit
+tab,switch to tab five,gedit
+tab,switch to tab four,gedit
+tab,switch to tab nine,gedit
+tab,switch to tab one,gedit
+tab,switch to tab seven,gedit
+tab,switch to tab six,gedit
+tab,switch to tab three,gedit
+tab,switch to tab two,gedit
+tab,undo close tab,gedit
+________________________________________________________________________________
+to,change to lower case,gedit
+to,change to upper case,gedit
+to,go to beginning of document,gedit
+to,go to beginning of line,gedit
+to,go to end of document,gedit
+to,go to end of line,gedit
+to,go to line,gedit
+to,switch to next tab,gedit
+to,switch to previous tab,gedit
+to,switch to tab eight,gedit
+to,switch to tab five,gedit
+to,switch to tab four,gedit
+to,switch to tab nine,gedit
+to,switch to tab one,gedit
+to,switch to tab seven,gedit
+to,switch to tab six,gedit
+to,switch to tab three,gedit
+to,switch to tab two,gedit
+________________________________________________________________________________
+switch,switch to next tab,gedit
+switch,switch to previous tab,gedit
+switch,switch to tab eight,gedit
+switch,switch to tab five,gedit
+switch,switch to tab four,gedit
+switch,switch to tab nine,gedit
+switch,switch to tab one,gedit
+switch,switch to tab seven,gedit
+switch,switch to tab six,gedit
+switch,switch to tab three,gedit
+switch,switch to tab two,gedit
+________________________________________________________________________________
+line,delete current line,gedit
+line,go to beginning of line,gedit
+line,go to end of line,gedit
+line,go to line,gedit
+line,move line down,gedit
+line,move line up,gedit
+________________________________________________________________________________
+go,go to beginning of document,gedit
+go,go to beginning of line,gedit
+go,go to end of document,gedit
+go,go to end of line,gedit
+go,go to line,gedit
+________________________________________________________________________________
+close,close all tabs,gedit
+close,close tab,gedit
+close,close window,gedit
+close,undo close tab,gedit
+________________________________________________________________________________
+find,find,gedit
+find,find and replace,gedit
+find,find next,gedit
+find,find previous,gedit
+________________________________________________________________________________
+of,go to beginning of document,gedit
+of,go to beginning of line,gedit
+of,go to end of document,gedit
+of,go to end of line,gedit
+________________________________________________________________________________
+move,move line down,gedit
+move,move line up,gedit
+move,move word left,gedit
+move,move word right,gedit
+________________________________________________________________________________
+open,open document,gedit
+open,open file menu,gedit
+open,open user guide,gedit
+open,quick open,gedit
+________________________________________________________________________________
+case,change to lower case,gedit
+case,change to upper case,gedit
+case,toggle case,gedit
+________________________________________________________________________________
+all,close all tabs,gedit
+all,save all tabs,gedit
+all,select all,gedit
+________________________________________________________________________________
+next,find next,gedit
+next,next tab group,gedit
+next,switch to next tab,gedit
+________________________________________________________________________________
+previous,find previous,gedit
+previous,previous tab group,gedit
+previous,switch to previous tab,gedit
+________________________________________________________________________________
+document,go to beginning of document,gedit
+document,go to end of document,gedit
+document,open document,gedit
+________________________________________________________________________________
+new,new tab,gedit
+new,new tab group,gedit
+new,new window,gedit
+________________________________________________________________________________
+group,new tab group,gedit
+group,next tab group,gedit
+group,previous tab group,gedit
+________________________________________________________________________________
+save,save,gedit
+save,save all tabs,gedit
+save,save as,gedit
+________________________________________________________________________________
+stop,add tab stop,gedit
+stop,remove tab stop,gedit
+________________________________________________________________________________
+change,change to lower case,gedit
+change,change to upper case,gedit
+________________________________________________________________________________
+tabs,close all tabs,gedit
+tabs,save all tabs,gedit
+________________________________________________________________________________
+window,close window,gedit
+window,new window,gedit
+________________________________________________________________________________
+beginning,go to beginning of document,gedit
+beginning,go to beginning of line,gedit
+________________________________________________________________________________
+end,go to end of document,gedit
+end,go to end of line,gedit
+________________________________________________________________________________
+side,hide side panel,gedit
+side,show side panel,gedit
+________________________________________________________________________________
+panel,hide side panel,gedit
+panel,show side panel,gedit
+________________________________________________________________________________
+word,move word left,gedit
+word,move word right,gedit
+________________________________________________________________________________
+print,print,gedit
+print,print preview,gedit
+________________________________________________________________________________
+undo,undo,gedit
+undo,undo close tab,gedit
+________________________________________________________________________________
+add,add tab stop,gedit
+________________________________________________________________________________
+lower,change to lower case,gedit
+________________________________________________________________________________
+upper,change to upper case,gedit
+________________________________________________________________________________
+check,check spelling,gedit
+________________________________________________________________________________
+spelling,check spelling,gedit
+________________________________________________________________________________
+clear,clear highlight,gedit
+________________________________________________________________________________
+highlight,clear highlight,gedit
+________________________________________________________________________________
+copy,copy,gedit
+________________________________________________________________________________
+cut,cut,gedit
+________________________________________________________________________________
+delete,delete current line,gedit
+________________________________________________________________________________
+current,delete current line,gedit
+________________________________________________________________________________
+and,find and replace,gedit
+________________________________________________________________________________
+replace,find and replace,gedit
+________________________________________________________________________________
+hide,hide side panel,gedit
+________________________________________________________________________________
+down,move line down,gedit
+________________________________________________________________________________
+up,move line up,gedit
+________________________________________________________________________________
+left,move word left,gedit
+________________________________________________________________________________
+right,move word right,gedit
+________________________________________________________________________________
+file,open file menu,gedit
+________________________________________________________________________________
+menu,open file menu,gedit
+________________________________________________________________________________
+user,open user guide,gedit
+________________________________________________________________________________
+guide,open user guide,gedit
+________________________________________________________________________________
+paste,paste,gedit
+________________________________________________________________________________
+preview,print preview,gedit
+________________________________________________________________________________
+quick,quick open,gedit
+________________________________________________________________________________
+redo,redo,gedit
+________________________________________________________________________________
+remove,remove tab stop,gedit
+________________________________________________________________________________
+as,save as,gedit
+________________________________________________________________________________
+select,select all,gedit
+________________________________________________________________________________
+show,show side panel,gedit
+________________________________________________________________________________
+eight,switch to tab eight,gedit
+________________________________________________________________________________
+five,switch to tab five,gedit
+________________________________________________________________________________
+four,switch to tab four,gedit
+________________________________________________________________________________
+nine,switch to tab nine,gedit
+________________________________________________________________________________
+one,switch to tab one,gedit
+________________________________________________________________________________
+seven,switch to tab seven,gedit
+________________________________________________________________________________
+six,switch to tab six,gedit
+________________________________________________________________________________
+three,switch to tab three,gedit
+________________________________________________________________________________
+two,switch to tab two,gedit
+________________________________________________________________________________
+toggle,toggle case,gedit
+________________________________________________________________________________

@@ -1,0 +1,142 @@
+ABOVE CURSOR INSERT,shift+alt+Up
+ABOVE INSERT LINE,ctrl+shift+Return
+ADD COMMENT LINE,ctrl+k ctrl+c
+ALL CLOSE,ctrl+k ctrl+w
+ALL CURRENT OF SELECT SELECTION,ctrl+shift+l
+ALL CURRENT OF SELECT WORD,ctrl+F2
+ALL FIND MATCH OF SELECT,alt+Return
+ALL FOLD REGIONS,ctrl+k ctrl+0
+ALL FOLD SUBREGIONS,ctrl+k ctrl+bracketleft
+ALL REGIONS UNFOLD,ctrl+k ctrl+j
+ALL SELECT,ctrl+a
+ALL SHOW SYMBOLS,ctrl+t
+ALL SUBREGIONS UNFOLD,ctrl+k ctrl+bracketright
+AS SAVE,ctrl+shift+s
+AT END INSERT LINES OF SELECTED,shift+alt+i
+BACK GO,ctrl+alt+minus
+BEGINNING GO LINE OF TO,Home
+BELOW CURSOR INSERT,shift+alt+Down
+BELOW INSERT LINE,ctrl+Return
+BLOCK COMMENT TOGGLE,ctrl+shift+a
+BOTTOM,ctrl+End
+BOTTOM IN SCROLL TERMINAL TO,shift+End
+BRACKET JUMP MATCHING TO,ctrl+shift+backslash
+BREAKPOINT TOGGLE,F9
+CHANGE FILE LANGUAGE,ctrl+k m
+CLOSE,ctrl+w
+CLOSE EDITOR,ctrl+w
+CLOSE EDITOR UNDO,ctrl+shift+t
+CLOSE FOLDER,ctrl+k f
+CLOSE WINDOW,alt+F4
+CLOSE WINDOW,ctrl+w
+COMMAND PALETTE SHOW,ctrl+shift+p
+COMMENT LINE REMOVE,ctrl+k ctrl+u
+COMMENT LINE TOGGLE,ctrl+slash
+CONTINUE,F5
+CONTROL SHOW SOURCE,ctrl+shift+g
+COPY,ctrl+c
+COPY PATH,ctrl+k p
+COPY SELECTION,ctrl+shift+c
+CURRENT LINE SELECT,ctrl+l
+CUT,ctrl+x
+DEBUG SHOW,ctrl+shift+d
+DEFINITION GO TO,F12
+DEFINITION OPEN SIDE TO,ctrl+k F12
+DEFINITION PEEK,ctrl+shift+F10
+DELETE LINE,ctrl+shift+k
+DETAILS SEARCH TOGGLE,ctrl+shift+j
+DOCUMENT FORMAT,ctrl+shift+i
+DOWN EDITOR GROUP MOVE,ctrl+k Right
+DOWN IN PAGE SCROLL TERMINAL,shift+Page_Down
+DOWN IN SCROLL TERMINAL,ctrl+shift+Down
+DOWN LINE,ctrl+Down
+DOWN LINE MOVE,alt+Down
+DOWN PAGE,alt+Page_Down
+DUPLICATE LINE,ctrl+c ctrl+v
+EDITOR FIRST FOCUS GROUP,ctrl+1
+EDITOR FOCUS GROUP NEXT,ctrl+k ctrl+Right
+EDITOR FOCUS GROUP PREVIOUS,ctrl+k ctrl+Left
+EDITOR FOCUS GROUP SECOND,ctrl+2
+EDITOR FOCUS GROUP THIRD,ctrl+3
+EDITOR GROUP LEFT MOVE,ctrl+k Left
+EDITOR GROUP MOVE RIGHT,ctrl+k Right
+EDITOR GROUP MOVE UP,ctrl+k Left
+EDITOR KEEP MODE OPEN PREVIEW,ctrl+k Return
+EDITOR LAYOUT TOGGLE,shift+alt+0
+EDITOR LEFT MOVE,ctrl+shift+Page_Up
+EDITOR MOVE RIGHT,ctrl+shift+Page_Down
+EDITOR SPLIT,ctrl+backslash
+END GO LINE OF TO,End
+ERROR GO NEXT TO,F8
+ERROR GO PREVIOUS TO,shift+F8
+EXIT MODE ZEN,Escape Escape
+EXPAND SELECTION,shift+alt+Right
+EXPLORER SHOW,ctrl+shift+e
+EXTENSIONS SHOW,ctrl+shift+x
+FILE GO TO,ctrl+p
+FILE IN NEW OPEN WINDOW,ctrl+k o
+FILE LOCATION OPEN,ctrl+k r
+FILE NEW,ctrl+n
+FILE OPEN,ctrl+o
+FILES IN REPLACE,ctrl+shift+h
+FIND,ctrl+f
+FIND NEXT,F3
+FIND PREVIOUS,shift+F3
+FIX QUICK,ctrl+period
+FOCUS MOVES TAB TOGGLE,ctrl+m
+FOCUS TOGGLE,ctrl+shift+e
+FOLD REGION,ctrl+shift+bracketleft
+FORMAT SELECTION,ctrl+k ctrl+f
+FORWARD GO,ctrl+shift+minus
+FULL SCREEN,F11
+GO LINE TO,ctrl+g
+GO NEXT TO WARNING,F8
+GO PREVIOUS TO WARNING,shift+F8
+GO SYMBOL TO,ctrl+shift+o
+HINTS PARAMETER TRIGGER,ctrl+shift+space
+HOVER SHOW,ctrl+k ctrl+i
+IN PAGE SCROLL TERMINAL UP,shift+Page_Up
+IN PASTE TERMINAL,ctrl+shift+v
+IN SCROLL TERMINAL TO TOP,shift+Home
+IN SCROLL TERMINAL UP,ctrl+shift+Up
+IN ZOOM,ctrl+plus
+INDENT LINE,ctrl+bracketright
+INTO STEP,F11
+KEYBOARD SHORTCUTS,ctrl+k ctrl+s
+LINE MOVE UP,alt+Up
+LINE OUTDENT,ctrl+bracketleft
+LINE TRIM,ctrl+k ctrl+x
+LINE UP,ctrl+Up
+MARKDOWN OPEN PREVIEW,ctrl+shift+v
+MARKDOWN OPEN PREVIEW SIDE TO,ctrl+k v
+MODE ZEN,ctrl+k z
+NEW TERMINAL,ctrl+shift+grave
+NEW WINDOW,ctrl+shift+n
+NEXT TAB,ctrl+Page_Down
+OPEN PREVIEW,ctrl+shift+v
+OPEN QUICK,ctrl+p
+OUT STEP,shift+F11
+OUT ZOOM,ctrl+minus
+OUTPUT PANEL SHOW,ctrl+k ctrl+h
+OVER STEP,F10
+PAGE UP,alt+Page_Up
+PANEL PROBLEMS SHOW,ctrl+shift+m
+PASTE,ctrl+v
+PREVIOUS TAB,ctrl+Page_Up
+REFERENCES SHOW,shift+F12
+REGION UNFOLD,ctrl+shift+bracketright
+RENAME SYMBOL,F2
+REPLACE,ctrl+h
+RESTORE,ctrl+shift+Tab
+SAVE,ctrl+s
+SEARCH SHOW,ctrl+shift+f
+SELECTION SHRINK,shift+alt+Left
+SETTINGS USER,ctrl+comma
+SHOW TERMINAL,ctrl+grave
+SIDEBAR TOGGLE VISIBILITY,ctrl+b
+START,F5
+STOP,shift+F5
+SUGGESTION TRIGGER,ctrl+space
+TOGGLE WORD WRAP,alt+z
+TOP,ctrl+Home
+UNDO,ctrl+z

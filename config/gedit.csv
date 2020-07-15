@@ -1,0 +1,58 @@
+add tab stop,Tab
+change to lower case,ctrl+l
+change to upper case,ctrl+u
+check spelling,shift+F7
+clear highlight,ctrl+shift+k
+close all tabs,ctrl+shift+w
+close tab,ctrl+w
+close window,ctrl+q
+copy,ctrl+c
+cut,ctrl+x
+delete current line,ctrl+d
+find,ctrl+f
+find and replace,ctrl+h
+find next,ctrl+g
+find previous,ctrl+shift+g
+go to beginning of document,ctrl+Home
+go to beginning of line,Home
+go to end of document,ctrl+End
+go to end of line,End
+go to line,ctrl+i
+hide side panel,F9
+move line down,alt+Down
+move line up,alt+Up
+move word left,alt+Left
+move word right,alt+Right
+new tab,ctrl+t
+new tab group,ctrl+alt+n
+new window,ctrl+n
+next tab group,shift+ctrl+alt+Page_Down
+open document,ctrl+o
+open file menu,F10
+open user guide,F1
+paste,ctrl+v
+previous tab group,shift+ctrl+alt+Page_Up
+print,ctrl+p
+print preview,ctrl+shift+p
+quick open,alt+o
+redo,shift+z
+remove tab stop,shift+Tab
+save,ctrl+s
+save all tabs,ctrl+shift+l
+save as,ctrl+shift+s
+select all,ctrl+a
+show side panel,F9
+switch to next tab,ctrl+alt+Page_Down
+switch to previous tab,ctrl+alt+Page_Up
+switch to tab eight,alt+8
+switch to tab five,alt+5
+switch to tab four,alt+4
+switch to tab nine,alt+9
+switch to tab one,alt+1
+switch to tab seven,alt+7
+switch to tab six,alt+6
+switch to tab three,alt+3
+switch to tab two,alt+2
+toggle case,ctrl+asciitilde
+undo,ctrl+z
+undo close tab,ctrl+shift+t

@@ -1,0 +1,19 @@
+[PATHS]
+#hmm = vaac_model/model_parameters/vaac_model.cd_cont_2000
+#lm = vaac_model/etc/vaac_model.lm.DMP
+#dic = vaac_model/etc/vaac_model.dic
+hmm = model/vaac_model.cd_cont_2000
+lm = model/vaac_model.lm.DMP
+dic = model/vaac_model.dic
+keysymfile = ./config/keys.csv
+
+[CORPUS]
+min_word_freq = 20
+max_word_freq = 25
+
+[RECORDINGS]
+min_word_freq = 10
+min_command_freq = 1
+
+[VAAC_TERMINAL]
+maxlines = 2000

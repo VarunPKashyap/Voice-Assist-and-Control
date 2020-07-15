@@ -1,0 +1,116 @@
+add ons,ctrl+shift+a
+back,ctrl+bracketleft
+bookmark this page,ctrl+d
+bookmarks sidebar,ctrl+b
+bottom,End
+browser console,ctrl+shift+j
+caret browsing,F7
+clear history,ctrl+shift+Delete
+close quick find,Escape
+close tab,ctrl+w
+close window,ctrl+shift+w
+copy,ctrl+c
+cut,ctrl+x
+debugger,ctrl+shift+s
+decrease volume,Down
+delete,Delete
+delete word to left,ctrl+BackSpace
+delete word to right,ctrl+Delete
+developer toolbar,shift+F2
+down,Down
+downloads,ctrl+shift+y
+exit full screen,F11
+find,ctrl+f
+find next,ctrl+g
+find previous,ctrl+shift+g
+focus next,Tab
+focus page number box,ctrl+alt+g
+focus previous,shift+Tab
+focus search bar,ctrl+k
+force reload,ctrl+shift+r
+forward,ctrl+bracketright
+full screen,F11
+go,ctrl+Return
+go one word to left,ctrl+Left
+go one word to right,ctrl+Right
+go to beginning,ctrl+Home
+go to beginning of line,Home
+go to end,ctrl+End
+go to end of line,End
+hand tool,h
+history sidebar,ctrl+h
+home,alt+Home
+increase volume,Up
+inspector,ctrl+shift+c
+library window bookmarks,ctrl+shift+o
+library window history,ctrl+shift+h
+menu bar,F10
+move tab left,ctrl+shift+Page_Up
+move tab right,ctrl+shift+Page_Down
+move tab to end,ctrl+shift+End
+move tab to start,ctrl+shift+Home
+move to next frame,F6
+move to previous frame,shift+F6
+mute,ctrl+m
+network,ctrl+shift+e
+new private window,ctrl+shift+p
+new tab,ctrl+t
+new window,ctrl+n
+next page,n
+next tab,ctrl+Page_Down
+open file,ctrl+o
+page down,Page_Down
+page info,ctrl+i
+page source,ctrl+u
+page up,Page_Up
+paste,ctrl+v
+paste as plain text,ctrl+shift+v
+pause,space
+play,space
+previous page,p
+previous tab,ctrl+Page_Up
+print,ctrl+p
+profiler,shift+F5
+quick find,slash
+quick find links,apostrophe
+quit,ctrl+q
+redo,ctrl+shift+z
+reload,ctrl+r
+reset zoom,ctrl+0
+responsive design view,ctrl+shift+m
+rotate,r
+rotate counterclockwise,shift+r
+save,ctrl+s
+seek back fifteen seconds,Left
+seek back ten percent,ctrl+Left
+seek forward fifteen seconds,Right
+seek forward ten percent,ctrl+Right
+seek to beginning,Home
+seek to end,End
+select all,ctrl+a
+select location bar,ctrl+l
+stop,Escape
+style editor,shift+F7
+switch to last tab,alt+9
+switch to presentation mode,ctrl+alt+p
+switch to tab eight,alt+8
+switch to tab five,alt+5
+switch to tab four,alt+4
+switch to tab one,alt+1
+switch to tab seven,alt+7
+switch to tab six,alt+6
+switch to tab three,alt+3
+switch to tab two,alt+2
+text selection tool,s
+toggle context menu,shift+F10
+toggle developer tools,ctrl+shift+i
+toggle reader mode,ctrl+alt+r
+top,Home
+undo,ctrl+z
+undo close tab,ctrl+shift+t
+undo close window,ctrl+shift+n
+unmute,ctrl+m
+up,Up
+web console,ctrl+shift+k
+zoom in,ctrl+plus
+zoom out,ctrl+minus

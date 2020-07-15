@@ -1,0 +1,47 @@
+BACK CHARACTER MOVE ONE,ctrl+b
+BACK MOVE ONE WORD,alt+b
+BOTTOM SCROLL TO,shift+End
+CHARACTER FORWARD MOVE ONE,ctrl+f
+CLEAR HIGHLIGHT,shift+ctrl+j
+CLEAR SCREEN,ctrl+l
+CLOSE TAB,shift+ctrl+w
+CLOSE WINDOW,shift+ctrl+q
+COPY,shift+ctrl+c
+DELETE END LINE OF TO,ctrl+k
+DELETE LINE OF START TO,ctrl+u
+DELETE OF START TO WORD,ctrl+w
+DELETE PREVIOUS WORD,alt+BackSpace
+DOWN LINE ONE SCROLL,shift+ctrl+Down
+DOWN ONE PAGE SCROLL,shift+Page_Down
+EIGHT SWITCH TAB TO,alt+8
+END LINE MOVE OF TO,ctrl+e
+ERASE LINE,ctrl+u
+ERASE WORD,ctrl+w
+FIND,shift+ctrl+f
+FIND NEXT,shift+ctrl+g
+FIND PREVIOUS,shift+ctrl+h
+FIVE SWITCH TAB TO,alt+5
+FORWARD MOVE ONE WORD,alt+f
+FOUR SWITCH TAB TO,alt+4
+FULL SCREEN,F11
+IN ZOOM,ctrl+plus
+LEFT MOVE TAB TO,shift+ctrl+Page_Up
+LINE MOVE OF START TO,ctrl+a
+LINE ONE SCROLL UP,shift+ctrl+Up
+MOVE RIGHT TAB TO,shift+ctrl+Page_Down
+NEW TAB,shift+ctrl+t
+NEW WINDOW,shift+ctrl+n
+NEXT TAB,ctrl+Page_Down
+NINE SWITCH TAB TO,alt+9
+ONE PAGE SCROLL UP,shift+Page_Up
+ONE SWITCH TAB TO,alt+1
+OUT ZOOM,ctrl+minus
+PASTE,shift+ctrl+v
+PREVIOUS TAB,ctrl+Page_Up
+RESET ZOOM,ctrl+0
+SCROLL TO TOP,shift+Home
+SEVEN SWITCH TAB TO,alt+7
+SIX SWITCH TAB TO,alt+6
+SWITCH TAB TEN TO,alt+0
+SWITCH TAB THREE TO,alt+3
+SWITCH TAB TO TWO,alt+2
